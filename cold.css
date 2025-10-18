@@ -5,8 +5,8 @@
 }
 
 body {
-  font-family: 'Georgia', serif; /* Changed to Georgia as requested */
-  background-color: grey; /* Background color set to grey */
+  font-family: 'Georgia', serif; 
+  background-color: grey; 
   color: #000;
 }
 
@@ -71,8 +71,8 @@ header h1 {
 
 .title {
   text-align: center;
-  font-size: 2rem; /* Updated font size */
-  font-weight: bold; /* Updated font weight */
+  font-size: 2rem; 
+  font-weight: bold;
   margin: 30px 0 20px;
 }
 
@@ -127,7 +127,7 @@ h2 {
   text-align: center;
 }
 
-/* ==================== FOOTER ==================== */
+/*  FOOTER  */
 .footer {
   grid-area: footer;
   height: 63px;
@@ -135,7 +135,7 @@ h2 {
   margin-top: 20px;
 }
 
-/* ==================== RESPONSIVE STYLES ==================== */
+/*  RESPONSIVE STYLES  */
 @media (max-width: 1024px) {
   .container {
     grid-template-columns: 50px 1fr 50px;

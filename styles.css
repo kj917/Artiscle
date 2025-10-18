@@ -142,7 +142,7 @@ main {
   margin-top: 20px;
 }
 
-/* ==================== HOME RESPONSIVE ==================== */
+/*  HOME RESPONSIVE  */
 @media (max-width: 1024px) {
   .container {
     grid-template-columns: 50px 1fr 50px;
@@ -173,7 +173,7 @@ main {
   .events h3 { font-size: 18px; }
 }
 
-/* ==================== BOTB PAGE ==================== */
+/*  BOTB PAGE  */
 .brand-name {
   display: block;
   text-align: center;
@@ -259,7 +259,7 @@ main {
   line-height: 1.65;
 }
 
-/* ==================== BOTB RESPONSIVE ==================== */
+/*  BOTB RESPONSIVE  */
 @media (max-width: 1024px) {
   .feature-flex {
     flex-direction: column;
